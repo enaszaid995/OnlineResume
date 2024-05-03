@@ -1,0 +1,29 @@
+.skills{
+    max-width: 50%;
+    min-width: 50%;
+    margin: auto;
+    margin-top: 3vh;
+    text-align: left;
+    border: 1px solid rgb(172, 148, 168);
+   
+}
+.skills section{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.skills h3{
+    font-family: "Roboto Condensed", sans-serif;
+    text-shadow: 1px 1px 1px #ad99c2;
+    padding: 1vh 0vh 0vh 7vh;
+  }
+.skill{
+    max-width: 90%;
+    margin: auto;
+    text-align: center;
+}
+@media (max-width: 800px) {
+    .skills section {
+      flex-direction: column;
+    }
+  }

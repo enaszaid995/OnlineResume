@@ -1,0 +1,21 @@
+.experiences{
+    max-width: 50%;
+    min-width: 50%;
+    margin: auto;
+    margin-top: 4vh;
+    text-align: left;
+      
+}
+.experiences h3{
+    text-align: left;
+ 
+}
+.experiences p{
+    
+    font-style: italic;
+    font-size: small;
+  }
+.ExperiencesList{
+    display: flex;
+    flex-wrap: wrap;
+}

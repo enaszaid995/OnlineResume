@@ -1,0 +1,15 @@
+.skill{
+    padding: 2vh;
+}
+
+.skill img{
+    height: 10vmin;
+    width: 10vmin;
+    border-radius: 50%;
+    pointer-events: none;
+}
+@media screen and (max-width: 800px){
+    /* .skill{
+        display: block;
+    } */
+}

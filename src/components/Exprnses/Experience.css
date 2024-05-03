@@ -1,0 +1,17 @@
+.experience{
+    display: flex;
+  
+}
+.experience li {
+    list-style-type: none;    
+}
+.experience li a{
+    text-decoration: none;    
+    color: rgb(230, 224, 235);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.experience li a:hover{
+    color: rgb(203, 187, 217);
+    
+}
